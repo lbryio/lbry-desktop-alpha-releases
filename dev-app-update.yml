@@ -1,0 +1,3 @@
+owner: <user or organization name>
+repo: dev-auto-update-testing
+provider: github
